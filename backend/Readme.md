@@ -16,3 +16,12 @@
 - npx knex migrate:status //mostra o status das migrations
 
 - node index.js
+
+---
+
+- npm install celebrate
+- npm install jest
+- npx jest --init => Y, Node, N 
+- npm test // executa todos os testes
+- npm install cross-env
+- npm install supertest -D
